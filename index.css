@@ -1,0 +1,73 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #1C1C1C;
+}
+
+.container {
+    width: 550px;
+    height: 550px;
+    background: #ECFDF5;
+    padding: 20px;
+    margin: auto;
+}
+
+.heroLine {
+    width: 354px;
+    height: 80px;
+}
+
+.heroLine-1 {
+    margin:30px 20px 0px 20px;
+    color: #2B283A;
+}
+
+.heroLine-2 {
+    margin: 0px 20px;
+    color: #10B981;
+}
+
+.subLine {
+    margin: 20px;
+    width: 372px;
+    height: 28px;
+}
+
+.subLine-el {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+    padding: 5px 10px;
+    border-radius: 6px;
+    gap: 12px;
+    background-color: #10B981;
+    color: rgb(233, 222, 222);
+    border: none;
+}
+
+.password-showcase{
+   display: flex;
+   justify-content: space-around; 
+}
+
+.password-el {
+    width: 211px;
+    height: 39px;
+    border-radius: 6px;
+    background-color: #273549;
+    color: #5DEF92;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+}
